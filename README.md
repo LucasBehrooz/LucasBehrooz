@@ -12,10 +12,9 @@
 
  
 <div>
-    <img align="center" height="30" src="https://user-images.githubusercontent.com/18297282/127724823-a1c3ea09-572b-4749-893c-850113a79213.png">
+    <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="30" src="https://user-images.githubusercontent.com/18297282/127724811-e33bc7a7-f2f1-40ec-b55f-2f8d50876f6c.png">
     <img align="center" height="30" src="https://user-images.githubusercontent.com/18297282/127724837-95b68ed5-1f70-4a72-85f9-d61f93b2252d.png">
-   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
 <!--Site Usado para obter os icons https://devicon.dev -->
 
@@ -29,4 +28,4 @@
 <!-- Site usado para obter os badge https://dev.to -->
 
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg
+
