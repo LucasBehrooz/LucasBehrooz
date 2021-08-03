@@ -1,7 +1,7 @@
 <h2> #Hello World 👋 </h2>
 <p>Me Chamo Lucas Cândido</p>
 
- 
+<div>
 <a href="https://github.com/LucasBehrooz">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasBehrooz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBehrooz&layout=compact&langs_count=7&theme=dark"/>
